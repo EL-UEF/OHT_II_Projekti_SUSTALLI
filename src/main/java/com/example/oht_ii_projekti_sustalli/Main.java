@@ -1,6 +1,5 @@
 package com.example.oht_ii_projekti_sustalli;
 
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
